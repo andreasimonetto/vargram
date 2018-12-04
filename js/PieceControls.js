@@ -4,7 +4,7 @@
  * Running this will allow you to drag three.js objects around the screen.
 
  *
- * Goat MODded. May the FSM bless you.
+ * Goatama MODded. May the FSM bless you!
  *
 */
 
